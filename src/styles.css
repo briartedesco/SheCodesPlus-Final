@@ -57,3 +57,15 @@ p {
   width: auto;
   padding: 20px;
 }
+
+a {
+  color: #fdb44b;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+}
+
+.name {
+  color: #333333;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+}
